@@ -1,0 +1,89 @@
+* {
+  box-sizing:border-box ;
+}
+
+body.mainlogo{
+  margin:auto;
+  background-image: url('nbalogo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px;
+  width:500px;
+  height:1010px;
+  margin-left:200px;
+  margin-right:200px;
+}
+
+
+
+
+img.logo{
+  border-radius:50%;
+  width:180px;
+  height: 15px;0px;
+  padding:10px
+}
+
+ul{
+  padding:100px 50px;
+  margin:16px 20px;
+}
+
+li{
+  list-style:none;
+}
+
+
+nav{
+  padding:500px 60px;
+  margin:20px 90px;
+  text-align: left;
+  font-size: 20px;
+  width:200px;
+  height:200px;
+}
+
+.celticslogo{
+  background-image: url('celtics.jpg');
+  width:1000px;
+  height: 500px;
+  background-size:cover;
+}
+
+.lakerslogo{
+  background-image: url('newlakers.jpg');
+  width:1000px;
+  height: 500px;
+  background-size:cover;
+}
+
+.mavslogo{
+  background-image: url('mavs.jpg');
+  width:800px;
+  height: 500px;
+  background-size:cover;
+}
+
+nav.movenav{
+  padding:0px 30px;
+  margin:20px 90px;
+  text-align: left;
+  font-size: 20px;
+  width:200px;
+  height:200px;
+}
+
+
+.cavslogo{
+  background-image: url('cavs.jpg');
+  width:800px;
+  height: 500px;
+  background-size:cover;
+}
+
+.bullslogo{
+  background-image: url('bulls.jpg');
+  width:800px;
+  height: 500px;
+  background-size:cover;
+}
